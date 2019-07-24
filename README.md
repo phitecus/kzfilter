@@ -82,7 +82,7 @@ It will save csv files into Primary Pollutant folder, which will be later used i
 
 ### Long Term Relation.py
 
-This code finds the relationship between long-term trend of O3 and wind direction.
+This code finds the relationship between long-term trend of O3 and primary pollutants data (NO2 and SO2).
 
 It will save graphs into Long Term Result folder.
 
