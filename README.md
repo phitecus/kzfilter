@@ -1,4 +1,4 @@
-# Using KZ filter to detrend O3
+# Using KZ filter to detrend O3 and Applications
 
 ## Overview
 * KZ filter
