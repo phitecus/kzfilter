@@ -60,6 +60,11 @@ This code finds the relationship between short-term trend of O3 and wind directi
 
 It will save graphs into ST Variation and WD folder.
 
+This process can be visualized as the following figure:
+
+<img src="./ST Variation and WD/A Combined Subplot.png" width="450">
+
+
 ## Primary Pollutants
 
 
