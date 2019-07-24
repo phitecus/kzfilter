@@ -1,4 +1,4 @@
-# Using KZ filter to detrend air quality data
+# Using KZ filter to detrend O3
 
 ## Overview
 
