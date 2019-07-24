@@ -36,7 +36,7 @@ Raw data provided from Supplement folder
 
 ### mkz.py
 
-It prevents drawbacks of cutting heads and tails of data, followed by KZ filter.
+It prevents drawbacks of cutting heads and tails of data, followed by KZ filter (but not really useful)
 
 
 ## 2. Regression
@@ -59,6 +59,7 @@ Input data provided from preprocessed folder
 
 
 ## 3. Wind Direction
+
 ### wind_direction.py
 This code finds the relationship between short-term trend of O3 and wind direction.
 
@@ -73,12 +74,11 @@ Input data provided from Regression Result folder (wind direction data from csv 
 
 
 ## 4. Primary Pollutants
+
 ### primary.py
 This code preprocesses primary pollutants data (NO2 and SO2).
 
 It will save csv files into Primary Pollutant folder, which will be later used in Long Term Relation.py
-
-
 
 ### Long Term Relation.py
 
