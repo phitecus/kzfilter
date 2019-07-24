@@ -3,6 +3,9 @@
 ## Overview
 * KZ filter
 
+detrend.py
+Supplement
+
 * Regression
 
 * Future Data
