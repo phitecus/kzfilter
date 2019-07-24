@@ -69,6 +69,16 @@ Input data provided from Regression Result folder (wind direction data from csv 
 
 
 ## 4. Primary Pollutants
+### primary.py
+This code finds the relationship between long-term trend of O3 and primary pollutants (NO2 and SO2).
+
+It will save csv files into Primary Pollutant folder.
+
+This process can be visualized as the following figure:
+
+<img src="./ST Variation and WD/A Combined Subplot.png" width="450">
+
+Input data provided from Regression Result folder (wind direction data from csv files)
 
 
 ## 5. Future Data
