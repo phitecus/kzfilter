@@ -5,7 +5,10 @@
 
 
 ## KZ filter
-
+* Detrend O3
+* Regression
+* Future Data
+* Spark
 
 
 ## References
