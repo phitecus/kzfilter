@@ -64,6 +64,9 @@ This process can be visualized as the following figure:
 
 <img src="./ST Variation and WD/A Combined Subplot.png" width="450">
 
+Input data provided from Regression Result folder (wind direction data from csv files)
+
+
 
 ## Primary Pollutants
 
