@@ -7,7 +7,7 @@ detrend.py: detrend O3 data from 'Eastern', 'Kwai Chung', 'Tung Chung', 'YL', 'K
 
 This process can be visualized as the following figure:
 
-<img src="./5 Year Regression Result/Eastern.png" width="450">
+<img src="./detrend/Eastern.png" width="450">
 
 Supplement
 
