@@ -55,7 +55,7 @@ Input data provided from preprocessed folder
 
 
 ## Wind Direction
-### Regression.py
+### wind_direction.py
 This code finds the relationship between short-term trend of O3 and wind direction.
 
 It will save graphs into ST Variation and WD folder.
