@@ -47,7 +47,7 @@ This process can be visualized as the following figure:
 
 <img src="./Regression Result/A Combined Subplot.png" width="450">
 
-Raw data provided from ~
+Raw data provided from preprocessed folder
 
 
 ## Wind Direction
