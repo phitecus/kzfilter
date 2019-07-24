@@ -41,6 +41,14 @@ Raw data provided from Supplement folder
 
 This code finds a linear relationship between baseline data of O3 and meteorological variables (temperature, relative humidity, pressure, and wind speed)
 
+It will save graphs into Regression Result Folder.
+
+This process can be visualized as the following figure:
+
+<img src="./detrend/Eastern.png" width="450">
+
+Raw data provided from ~
+
 ## Future Data
 
 ## Spark
