@@ -37,6 +37,10 @@ Raw data provided from Supplement folder
 
 ## Regression
 
+### meteorological.py
+
+This function is to preprocess data (O3 and meteorological variables) and save them in preprocessed folder
+
 ### Regression.py
 
 This code finds a linear relationship between baseline data of O3 and meteorological variables (temperature, relative humidity, pressure, and wind speed)
