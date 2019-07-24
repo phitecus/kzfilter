@@ -76,7 +76,7 @@ Input data provided from Regression Result folder (wind direction data from csv 
 ## 4. Primary Pollutants
 
 ### primary.py
-This code preprocesses primary pollutants data (NO2 and SO2).
+This code preprocesses primary pollutants data (from NO2, SO2, and Supplement).
 
 It will save csv files into Primary Pollutant folder, which will be later used in Long Term Relation.py
 
