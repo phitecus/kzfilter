@@ -5,6 +5,10 @@
 
 * Regression
 
+* Wind Direction
+
+* Primary Pollutants
+
 * Future Data
 
 * Spark
@@ -30,7 +34,12 @@ This process can be visualized as the following figure:
 
 Raw data provided from Supplement folder
 
+
 ## Regression
+
+### Regression.py
+
+This code finds a linear relationship between baseline data of O3 and meteorological variables (temperature, relative humidity, pressure, and wind speed)
 
 ## Future Data
 
