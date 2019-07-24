@@ -12,7 +12,7 @@
 
 ## KZ filter
 
-I highly recommend to read the following post:
+I highly recommend to read the following examples:
 
 [kolmogorov-zurbenko-filter](https://github.com/MathieuSchopfer/kolmogorov-zurbenko-filter)
 
