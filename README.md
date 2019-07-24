@@ -1,15 +1,22 @@
 # Using KZ filter to detrend O3
 
 ## Overview
+* KZ filter
 
+* Regression
+
+* Future Data
+
+* Spark
 
 
 ## KZ filter
-* Detrend O3
-* Regression
-* Future Data
-* Spark
 
+## Regression
+
+## Future Data
+
+## Spark
 
 ## References
 
