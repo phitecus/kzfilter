@@ -14,7 +14,7 @@
 
 ### detrend.py
 
-This code detrends O3 data from 'Eastern', 'Kwai Chung', 'Tung Chung', 'YL', 'Kwun Tong', 'Macau', 'Sha Tin', 'ShamShuiPo', 'Tap Mun', 'Tsuen Wan'
+This code detrends O3 data from 'Eastern', 'Kwai Chung', 'Tung Chung', 'YL', 'Kwun Tong', 'Macau', 'Sha Tin', 'ShamShuiPo', 'Tap Mun', 'Tsuen Wan' into short-term, seasonal-term, and long-term trends.
 
 It will save graphs into detrend folder
 
