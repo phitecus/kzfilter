@@ -34,6 +34,10 @@ This process can be visualized as the following figure:
 
 Raw data provided from Supplement folder
 
+### mkz.py
+
+It prevents drawbacks of cutting heads and tails of data, followed by KZ filter.
+
 
 ## 2. Regression
 
