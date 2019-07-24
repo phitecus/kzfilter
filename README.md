@@ -14,7 +14,7 @@
 * Spark
 
 
-## KZ filter
+## 1. KZ filter
 
 I highly recommend to read the following examples:
 
@@ -35,7 +35,7 @@ This process can be visualized as the following figure:
 Raw data provided from Supplement folder
 
 
-## Regression
+## 2. Regression
 
 ### meteorological.py
 
@@ -54,7 +54,7 @@ This process can be visualized as the following figure:
 Input data provided from preprocessed folder
 
 
-## Wind Direction
+## 3. Wind Direction
 ### wind_direction.py
 This code finds the relationship between short-term trend of O3 and wind direction.
 
@@ -68,13 +68,13 @@ Input data provided from Regression Result folder (wind direction data from csv 
 
 
 
-## Primary Pollutants
+## 4. Primary Pollutants
 
 
-## Future Data
+## 5. Future Data
 
 
-## Spark
+## 6. Spark
 
 
 ## References
