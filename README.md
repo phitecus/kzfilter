@@ -138,7 +138,7 @@ Save them to 'Future Data Preprocess' folder.
 
 Then, I organized the files in 'Model Combine' folder.
 
-### Final Regression
+### Final Regression.py
 
 Import future climate data from 'Model Combine'
 
@@ -155,8 +155,11 @@ Save graphs into Future Regression.
 <img src="./Future Regression/Eastern 2046-2050 rcp26.png" width="450">
 
 
-
 ### Subplot.py
+
+Make subplot of different regions to compare (one example of rcp26)
+
+<img src="./Future Regression/rcp26average comparison.png" width="450">
 
 
 
