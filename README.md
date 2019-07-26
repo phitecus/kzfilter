@@ -27,7 +27,7 @@ I highly recommend to read the following examples:
 ### detrend.py
 
 ```  
-python3 run_ppo.py     
+python detrend.py     
 ```  
 
 This code detrends O3 data from 'Eastern', 'Kwai Chung', 'Tung Chung', 'YL', 'Kwun Tong', 'Macau', 'Sha Tin', 'ShamShuiPo', 'Tap Mun', 'Tsuen Wan' into short-term, seasonal-term, and long-term trends.
