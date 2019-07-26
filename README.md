@@ -144,6 +144,10 @@ Import future climate data from 'Model Combine'
 
 Import regression coefficients from 'Regression Coefficients'
 
+Use KZ filter to detrend O3 and climate data to implement linear regression, which results in future O3 baseline.
+
+New O3 baseline is calculated from 'Subtraction Result' by considering each month.
+
 Save graphs into Future Regression.
 
 #### One Example of rcp26 scenario in Eastern:
