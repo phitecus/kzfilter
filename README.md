@@ -176,6 +176,8 @@ Now we extend to Chinese provinces. 'China' folder.
 
 ## 7. Spark
 
+We can use Spark and Databricks to extend this concept.
+
 [1] Databricks notebook for combining different weather files: https://goo.gl/eVFJVf
 
 [2] Databricks notebook for drawing scatterplots: https://goo.gl/3RTe1t
