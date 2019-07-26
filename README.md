@@ -167,6 +167,9 @@ Make subplot of different regions to compare (one example of rcp26)
 
 ## 6. China
 
+Now we extend to Chinese provinces. 'China' folder.
+
+
 
 ## 7. Spark
 
