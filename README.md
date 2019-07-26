@@ -194,7 +194,9 @@ We can use Spark and Databricks to extend this concept.
 ## References
 
 
-1. *Playing Atari with Deep Reinforcement Learning*, Mnih et al., 2013
+1. *Lu, X., Lin, C., Li, Y., Yao, T., Fung, J. C., &amp; Lau, A. K. (2017). Assessment of health burden caused by
+particulate matter in southern China using high-resolution satellite observation. Environment
+international, 98, 160-170.
 2. *Human-level control through deep reinforcement learning*, Mnih et al., 2015
 
 [1] *Lu, X., Lin, C., Li, Y., Yao, T., Fung, J. C., &amp; Lau, A. K. (2017). Assessment of health burden caused by
