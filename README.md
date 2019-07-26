@@ -197,3 +197,28 @@ We can use Spark and Databricks to extend this concept.
 1. *Playing Atari with Deep Reinforcement Learning*, Mnih et al., 2013
 2. *Human-level control through deep reinforcement learning*, Mnih et al., 2015
 
+[1] Lu, X., Lin, C., Li, Y., Yao, T., Fung, J. C., &amp; Lau, A. K. (2017). Assessment of health burden caused by
+particulate matter in southern China using high-resolution satellite observation. Environment
+international, 98, 160-170.
+[2] Lu, X., &amp; Fung, J. C. (2016). Source apportionment of sulfate and nitrate over the Pearl River Delta region in
+China. Atmosphere, 7(8), 98.
+[3] World Health Organization, &quot;Ambient air pollution: a global assessment of exposure and burden of disease,&quot;
+2016.
+[4] “Guangdong-Hong Kong-Macao Pearl River Delta Regional Air Quality Monitoring Network,” Quality
+Management Committee of Guangdong-Hong Kong-Macao Pearl River Delta Regional Air Quality
+Monitoring Network, 2016.
+[5] CAAC (Clean Air Alliance of China), &quot;Air Pollution Prevention and Control Action Plan,&quot; 2013.
+
+[6] AQHI (Air Quality Health Index), &quot;Air Quality Trends in Hong Kong,&quot; [Online]. Available:
+http://www.aqhi.gov.hk/api_history/english/report/files/aqt15e.pdf.
+[7] Seo, J., Youn, D., Kim, J. Y., &amp; Lee, H. (2014). Extensive spatiotemporal analyses of surface ozone and
+related meteorological variables in South Korea for the period 1999–2010. Atmospheric Chemistry and
+Physics, 14(12), 6395-6415.
+[8] Li, P., Wang, Y., &amp; Dong, Q. (2017). The analysis and application of a new hybrid pollutants forecasting
+model using modified Kolmogorov–Zurbenko filter. Science of the Total Environment, 583, 228-240.
+[9] Rao, S. T., Zurbenko, I. G., Neagu, R., Porter, P. S., Ku, J. Y., &amp; Henry, R. F. (1997). Space and time scales
+in ambient ozone data. Bulletin of the American Meteorological Society, 78(10), 2153-2166.
+[10] Environmental Protection Department, Hong Kong, “Guidelines on the Estimation of PM2.5 for Air Quality
+Assessment in Hong Kong,” 21 07 2018. [Online]. Available:
+https://www.epd.gov.hk/epd/english/environmentinhk/air/guide_ref/guide_aqa_model_g5.html.
+
