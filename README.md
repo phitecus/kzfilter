@@ -177,8 +177,11 @@ Now we extend to Chinese provinces. 'China' folder.
 ## 7. Spark
 
 [1] Databricks notebook for combining different weather files: https://goo.gl/eVFJVf
+
 [2] Databricks notebook for drawing scatterplots: https://goo.gl/3RTe1t
+
 [3] Databricks notebook for filtering using KZ filter: https://goo.gl/mr6MZa
+
 [4] Databricks notebook for modeling and predicting: https://goo.gl/fyMFuu
 
 
