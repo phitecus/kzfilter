@@ -169,6 +169,9 @@ Make subplot of different regions to compare (one example of rcp26)
 
 Now we extend to Chinese provinces. 'China' folder.
 
+<img src="./China Detrend/O3/province/Beijing_O3 detrend.png" width="450">
+
+
 
 
 ## 7. Spark
