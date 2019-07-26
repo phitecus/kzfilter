@@ -57,6 +57,13 @@ This process can be visualized as the following figure:
 
 Input data provided from preprocessed folder
 
+### Regression_5years.py
+
+Similar to Regression.py code. But this version is for the recent 5 years of data (2013-2017).
+
+<img src="./5 Year Regression Result/5 Year Combined Subplot.png" width="450">
+
+
 
 ## 3. Wind Direction
 
