@@ -117,25 +117,39 @@ Download future meteorological data (2045-2050 and 2095-2100) from [World Climat
 
 - Variable: tasmax (max temperature), rhs (relative humidity), sfcwind (wind speed), psl (pressure)
 
+#### Future Data Process.py + Future Regression.py
+
+Testing one model
+
+
 ### Future convert to csv.py
 
 First convert NC files to csv files, by choosing appropriate latitude and longitude.
 
-The saving directory = Future Data Average (+ exp + '_' + model + '_' + variable + '_' + time + '.csv')
+The saving directory: 'Future Data Average' folder (+ exp + '_' + model + '_' + variable + '_' + time + '.csv')
 
 ### Future Data Combine.py
 
 Combine the csv files from 'Future Data Average'
 
-#### Models: MRI-CGCM3, MIROC5, HadGEM2-ES, IPSL-CM5A-MR, NorESM1-M, CSIRO-MK3.6, GFDL-ESM2M, GFDL-ESM2G, then take an average.
-
+Models: MRI-CGCM3, MIROC5, HadGEM2-ES, IPSL-CM5A-MR, NorESM1-M, CSIRO-MK3.6, GFDL-ESM2M, GFDL-ESM2G, then take an average.
 
 Save them to 'Future Data Preprocess' folder.
 
-### Future Data Process.py
+Then, I organized the files in 'Model Combine' folder.
 
+### Final Regression
 
-### Future Regression.py
+Import future climate data from 'Model Combine'
+
+Import regression coefficients from 'Regression Coefficients'
+
+Save graphs into Future Regression.
+
+#### One Example of rcp26 scenario in Eastern:
+
+<img src="./Future Regression/Eastern 2046-2050 rcp26.png" width="450">
+
 
 
 ### Subplot.py
