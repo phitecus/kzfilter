@@ -194,4 +194,6 @@ We can use Spark and Databricks to extend this concept.
 ## References
 
 
+1. *Playing Atari with Deep Reinforcement Learning*, Mnih et al., 2013
+2. *Human-level control through deep reinforcement learning*, Mnih et al., 2015
 
