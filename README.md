@@ -201,9 +201,9 @@ international, 98, 160-170.*
 
 [1] *Lu, X., Lin, C., Li, Y., Yao, T., Fung, J. C., &amp; Lau, A. K. (2017). Assessment of health burden caused by
 particulate matter in southern China using high-resolution satellite observation. Environment
-international, 98, 160-170.
-[2] Lu, X., &amp; Fung, J. C. (2016). Source apportionment of sulfate and nitrate over the Pearl River Delta region in
-China. Atmosphere, 7(8), 98.
+international, 98, 160-170.*
+[2] *Lu, X., &amp; Fung, J. C. (2016). Source apportionment of sulfate and nitrate over the Pearl River Delta region in
+China. Atmosphere, 7(8), 98.*
 [3] World Health Organization, &quot;Ambient air pollution: a global assessment of exposure and burden of disease,&quot;
 2016.
 [4] “Guangdong-Hong Kong-Macao Pearl River Delta Regional Air Quality Monitoring Network,” Quality
