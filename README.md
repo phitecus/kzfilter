@@ -125,6 +125,12 @@ The saving directory = Future Data Average (+ exp + '_' + model + '_' + variable
 
 ### Future Data Combine.py
 
+Combine the csv files from 'Future Data Average'
+
+#### Models: MRI-CGCM3, MIROC5, HadGEM2-ES, IPSL-CM5A-MR, NorESM1-M, CSIRO-MK3.6, GFDL-ESM2M, GFDL-ESM2G, then take an average.
+
+
+Save them to 'Future Data Preprocess' folder.
 
 ### Future Data Process.py
 
