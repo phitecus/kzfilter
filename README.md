@@ -119,6 +119,9 @@ Download future meteorological data (2045-2050 and 2095-2100) from [World Climat
 
 ### Future convert to csv.py
 
+First convert NC files to csv files, by choosing appropriate latitude and longitude.
+
+The saving directory = Future Data Average (+ exp + '_' + model + '_' + variable + '_' + time + '.csv')
 
 ### Future Data Combine.py
 
